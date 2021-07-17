@@ -1,7 +1,10 @@
 {
   "provider": "saleor",
   "features": {
-    "wishlist": false,
+    "cart": true,
+    "search": true,
+    "wishlist": true,
+    "customerAuth": true,
     "customCheckout": true
   }
 }
